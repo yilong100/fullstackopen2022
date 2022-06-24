@@ -1,2 +1,2 @@
-# fullstackopen2022
-exercises for fullstackopen
+# fullstackopen2022part0
+exercises for fullstackopen part 0
